@@ -4,6 +4,7 @@ Currency types as defined here:
 
 Order object representing a Gemini order:
     https://docs.gemini.com/rest-api/#order-status
+	novo simmbilo
 """
 
 from decimal import Decimal
