@@ -1,7 +1,7 @@
 import os
 from decimal import Decimal
 
-API_VERSION = 1
+API_VERSION = 1 # teste modificação
 API_URL = 'https://api.gemini.com'
 API_WS_URL = 'wss://api.gemini.com'
 STARTING_NONCE = 800                # must always increase incrementally
